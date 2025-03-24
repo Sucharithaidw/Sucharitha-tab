@@ -1,1 +1,1 @@
-select * from order;
+select orderid,product,sales;
