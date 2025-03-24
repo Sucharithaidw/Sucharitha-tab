@@ -1,0 +1,1 @@
+update employees set name = 'sucharitha' where id = 10;
